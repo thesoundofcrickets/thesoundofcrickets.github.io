@@ -15,7 +15,7 @@ timezone: America/Denver
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
-baseurl: https://ozgrozer.github.io/dasper
+baseurl: https://thesoundofcrickets.com
 
 # Includes
 addthisId: ""
