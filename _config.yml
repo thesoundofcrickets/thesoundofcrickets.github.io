@@ -1,8 +1,8 @@
 # Website details
-name: Name
-description: Description
-email: email@site.com
-author: author
+name: The Sound Of Crickets
+description: Gaming, Anime, Politics.
+email: thesoundofcrickets@protonmail.com
+author: Chirp!
 lang: en
 locale: en_US
 
@@ -11,7 +11,7 @@ paginate: 10
 highlighter: rouge
 markdown: kramdown
 plugins: [jekyll-paginate]
-timezone: America/New_York
+timezone: America/Denver
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
