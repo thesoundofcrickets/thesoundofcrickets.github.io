@@ -1,6 +1,13 @@
 ---
 published: false
 ---
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+
+
+
 ## Podcast...finally.
 
 ![lake-irene-1679708_640.jpg]({{site.baseurl}}/_posts/lake-irene-1679708_640.jpg)
@@ -9,4 +16,3 @@ published: false
 Our podcast is being submitted to several services via [Anchor.fm](https://anchor.fm/). This will take at least a week due to the holidays. In the meantime you can listen to our podcast at Anchor.
 
 <iframe src="https://anchor.fm/tsoc/embed/episodes/Intro--Welcome-to-the-podcast-e9jbjl/a-a16cojc" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
